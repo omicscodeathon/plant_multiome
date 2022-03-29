@@ -1,2 +1,7 @@
-# Omics Mining
-Comparative Analysis of Plant and Animal Multiomic Data for the Detection of Hidden Features.
+# Mining Omics features in Plants and Animals
+## Introduction
+## Datasets
+## Analysis pipeline
+## How to use
+## Citation
+## Team
