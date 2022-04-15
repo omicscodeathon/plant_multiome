@@ -8,7 +8,7 @@ We scrap the NCBI Genomes database and collect all genomes and organelles genome
 * Organelles are published
 Then bind them to their organelle genomes using Bioproject as a binding parameter, by the end, only datasets that gather the chromosome and extra chromosomes will be selected.
 ## Analysis pipeline
-![Présentation sans titre](figures/Workflow (1))
+![Workflow](https://github.com/omicscodeathon/plant_multiome/blob/main/figures/Workflow%20(1).jpg)
 ## How to use
 ## Citation
 (1) Zimorski, V., Ku, C., Martin, W. F., & Gould, S. B. (2014). Endosymbiotic theory for organelle origins. Current Opinion in Microbiology, 22, 38–48. doi:10.1016/j.mib.2014.09.008
