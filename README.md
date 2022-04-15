@@ -11,3 +11,7 @@ Then bind them to their organelle genomes using Bioproject as a binding paramete
 ## How to use
 ## Citation
 ## Team
+* Abdellah IDRISSI AZAMI: PhD Student in Plant Genomics | University Mohammed VI for health Sciences Morocco | Project Leader
+* Mustapha LEMSYAH: Engineer in Softwares and BI | University of Lyon France | Tech co-Lead
+* Zainab EL OUAFI: PhD Student in Molecular Modeling | University Mohammed VI for health Sciences Morocco | Writer
+* Douae EL GHOUBALI: PhD Student in Insect Genomics | University Mohammed VI for health Sciences Morocco | Writer
