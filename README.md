@@ -8,6 +8,7 @@ We scrap the NCBI Genomes database and collect all genomes and organelles genome
 * Organelles are published
 Then bind them to their organelle genomes using Bioproject as a binding parameter, by the end, only datasets that gather the chromosome and extra chromosomes will be selected.
 ## Analysis pipeline
+![Présentation sans titre](https://user-images.githubusercontent.com/85350037/163555673-e5751795-36d7-4ee6-8e94-4420d1f16812.jpg)
 ## How to use
 ## Citation
 ## Team
