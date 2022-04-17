@@ -9,11 +9,6 @@ We scrap the NCBI Genomes database and collect all genomes and organelles genome
 Then bind them to their organelle genomes using Bioproject as a binding parameter, by the end, only datasets that gather the chromosome and extra chromosomes will be selected.
 ## Analysis pipeline
 ![Workflow](https://github.com/omicscodeathon/plant_multiome/blob/main/figures/Workflow%20(1).jpg)
-## How to use
-## Citation
-(1) Zimorski, V., Ku, C., Martin, W. F., & Gould, S. B. (2014). Endosymbiotic theory for organelle origins. Current Opinion in Microbiology, 22, 38–48. doi:10.1016/j.mib.2014.09.008
-
-(2) Garuglieri E, Booth JM, Fusi M, Yang X, Marasco R, Mbobo T, Clementi E, Sacchi L, Daffonchio D. Morphological characteristics and abundance of prokaryotes associated with gills in mangrove brachyuran crabs living along a tidal gradient. PLoS One. 2022 Apr 14;17(4):e0266977. doi: 10.1371/journal.pone.0266977. PMID: 35421185.
 ## Team
 * Abdellah IDRISSI AZAMI: PhD Student in Plant Genomics | University Mohammed VI for health Sciences Morocco | Project Leader
 * Mustapha LEMSYAH: Engineer in Softwares and BI | University of Lyon France | Tech co-Lead
